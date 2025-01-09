@@ -38,4 +38,16 @@ ConversorMoedas/
 └── historico_conversoes.json
 ```
 
-# Testando o projeto
+# Testando o projeto 
+
+## Criando fork
+1. Realize o fork desse repositório. Você pode seguir a documentação do GitHub sobre [forks](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+2. Após criar o fork, você terá o seu repositório (um repositório cópia do original) e poderá trabalhar nos próximos passos
+## Clonando o repositório cópia
+1. Clone o seu repositório, seguindo a imagem abaixo  
+![image](https://github.com/user-attachments/assets/f6b353df-4cc1-41a0-8abc-f46719244cf3) ``fonte: alura fórum``
+2. No Intelij, vá ir no menu em _file_ e selecionar _New_ > _Project from Version Control_, no pop-up selecionamos o _Git_ e cole o link que copiou no passo anterior.
+3. Escolha o diretório onde deseja clonar o projeto em _Directory_ e clicar em _Clone_
+
+__OBS: Para maiores informações, consulte o [artigo fonte](https://cursos.alura.com.br/forum/topico-importacao-do-github-para-o-intellij-433529)__
+
