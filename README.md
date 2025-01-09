@@ -17,6 +17,8 @@ O conversor de moedas criado, trabalha com Dólar [USD], Real Brasileiro [BRL], 
 6. Peso Colombiano para Dólar (COP → USD);
 7. Sair!
 
+O código utiliza de um looping onde o usuário poderá realizar quantas conversoes ele quiser. Após 
+
 # 📂 Organização de arquivos: 
 ```bash
 ConversorMoedas/
