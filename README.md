@@ -38,7 +38,7 @@ ConversorMoedas/
 └── historico_conversoes.json
 ```
 
-# Testando o projeto 
+# 🧵 Testando o projeto 
 
 ## Criando fork
 1. Realize o fork desse repositório. Você pode seguir a documentação do GitHub sobre [forks](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
@@ -51,6 +51,16 @@ ConversorMoedas/
 
 __OBS: Para maiores informações, consulte o [artigo fonte](https://cursos.alura.com.br/forum/topico-importacao-do-github-para-o-intellij-433529)__
 
-# Entre em contato!  
+
+# 📩 Entre em contato!  
 [![Contato](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:marialuizafernandes383@gmail.com)
-[![Contato](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/marialuizafernandes21/)
+[![Contato](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/marialuizafernandes21/)  
+
+
+
+
+
+## 🎖 Baged 🎖
+Emblema de conclusão do projeto  
+<img src="assets/Badge-Conversor.png" alt="Imagem do Projeto" width="200px" height="200px">
+
