@@ -1,4 +1,4 @@
-package br.com.alura.ConversorMoedas.principal;
+package br.com.alura.ConversorMoedas.conversor;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,6 +1,7 @@
 package br.com.alura.ConversorMoedas.principal;
 
 import br.com.alura.ConversorMoedas.api.APIExchangeRate;
+import br.com.alura.ConversorMoedas.conversor.ConversorJson;
 import br.com.alura.ConversorMoedas.conversor.ConversorMoeda;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

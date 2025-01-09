@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1861dafd-3e4d-4df3-a9e4-475fa49a3dee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorMoedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/api/APIExchangeRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/conversor/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/ConversorJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/PrincipalMoeda.java" afterDir="false" />
+    <list default="true" id="1861dafd-3e4d-4df3-a9e4-475fa49a3dee" name="Changes" comment="projeto">
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/ConversorJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/conversor/ConversorJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/PrincipalMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/PrincipalMoeda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "i-malur"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/i-malur/Conversor-Moedas-Java.git",
+    "accountId": "e78b96b2-7cc6-4a98-960f-3096a21941e0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -41,20 +44,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.PrincipalMoeda.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gson-2.11.0.jar&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/intellij/ConversorMoedas/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PrincipalMoeda.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gson-2.11.0.jar",
+    "onboarding.tips.debug.path": "C:/intellij/ConversorMoedas/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +67,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736362771865</updated>
     </task>
+    <task id="LOCAL-00001" summary="projeto">
+      <option name="closed" value="true" />
+      <created>1736423527149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736423527149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto" />
   </component>
 </project>
