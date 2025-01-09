@@ -1,0 +1,16 @@
+[
+  {
+    "data": "2025-01-09 08:47:06",
+    "valorOriginal": 500.0,
+    "moedaOrigem": "BRL",
+    "moedaDestino": "USD",
+    "valorConvertido": 81.8
+  },
+  {
+    "data": "2025-01-09 08:47:10",
+    "valorOriginal": 130.0,
+    "moedaOrigem": "ARS",
+    "moedaDestino": "USD",
+    "valorConvertido": 0.1253915
+  }
+]
