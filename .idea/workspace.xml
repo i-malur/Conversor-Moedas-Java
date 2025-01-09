@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1861dafd-3e4d-4df3-a9e4-475fa49a3dee" name="Changes" comment="projeto">
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/ConversorJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/conversor/ConversorJson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/PrincipalMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/ConversorMoedas/principal/PrincipalMoeda.java" afterDir="false" />
+    <list default="true" id="1861dafd-3e4d-4df3-a9e4-475fa49a3dee" name="Changes" comment="atualizações">
+      <change afterPath="$PROJECT_DIR$/assets/Badge-Conversor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     "Application.PrincipalMoeda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/gson-2.11.0.jar",
     "onboarding.tips.debug.path": "C:/intellij/ConversorMoedas/src/Main.java",
@@ -58,6 +58,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\intellij\ConversorMoedas\assets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,11 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1736423527149</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atualizações">
+      <option name="closed" value="true" />
+      <created>1736425531006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736425531006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atualizações">
+      <option name="closed" value="true" />
+      <created>1736425560899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736425560899</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="projeto" />
+    <MESSAGE value="atualizações" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizações" />
   </component>
 </project>
